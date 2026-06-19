@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "title": "Ben Musa | Premium Hajj Companion",
+    "description": "Premium Hajj and Umrah products, travel packages, and caravan-ready pilgrim essentials."
+  },
+  "nav": {
+    "packages": "Packages",
+    "catalog": "Catalog",
+    "features": "Features",
+    "contact": "Contact"
+  },
+  "common": {
+    "brand": "Ben Musa",
+    "viewPackages": "View Packages",
+    "close": "Close",
+    "included": "Included products",
+    "standard": "Standard",
+    "vip": "VIP",
+    "vipOnly": "VIP only",
+    "women": "Women",
+    "men": "Men",
+    "standardPackage": "Standard Package",
+    "vipPackage": "VIP Package",
+    "yes": "Included",
+    "no": "Not included"
+  },
+  "hero": {
+    "eyebrow": "Premium Hajj and Umrah essentials",
+    "headline": "Your Trusted Hajj Companion",
+    "subheadline": "Ben Musa curates elegant travel bags, worship essentials, comfort accessories, and caravan-ready solutions for a calm sacred journey.",
+    "trust": "Trusted by caravan operators and pilgrims"
+  },
+  "packages": {
+    "title": "Choose Your Travel Package",
+    "subtitle": "Two refined product sets designed for the rhythm of pilgrimage, from essential organization to VIP comfort.",
+    "standardDescription": "A complete pilgrim kit with everyday travel essentials in a refined pilot-style bag.",
+    "vipDescription": "All standard essentials plus premium comfort upgrades for longer rituals and smoother movement.",
+    "openStandard": "View Standard Package",
+    "openVip": "View VIP Package"
+  },
+  "comparison": {
+    "title": "Package Comparison",
+    "subtitle": "A clear look at what each Ben Musa package contains.",
+    "product": "Product"
+  },
+  "catalog": {
+    "title": "Product Catalog",
+    "subtitle": "Organized essentials with premium materials, durable travel details, and pilgrim-aware design."
+  },
+  "categories": {
+    "title": "Category Filter",
+    "subtitle": "Browse curated products for men or women with smooth, focused filtering.",
+    "all": "All Products",
+    "men": "Men Products",
+    "women": "Women Products",
+    "menDescription": "Minimal, practical accessories for Ihram movement and daily rituals.",
+    "womenDescription": "Elegant privacy-aware travel essentials for comfort and confidence."
+  },
+  "features": {
+    "title": "Why Pilgrims Choose Ben Musa",
+    "subtitle": "A premium travel product platform built around dignity, clarity, and reliable preparation.",
+    "quality": "High Quality",
+    "approved": "Pilgrim Approved",
+    "delivery": "Fast Delivery",
+    "packaging": "Premium Packaging",
+    "trusted": "Trusted by Caravans"
+  },
+  "contact": {
+    "title": "Contact Ben Musa",
+    "subtitle": "Speak with our team about package orders, caravan supply, and custom pilgrim kits.",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "addressValue": "Makkah Road, Pilgrim Services District",
+    "name": "Full name",
+    "email": "Email address",
+    "message": "Message",
+    "send": "Send Request",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@example.com",
+    "messagePlaceholder": "Tell us about the package or caravan quantity you need."
+  },
+  "install": {
+    "button": "Install Ben Musa",
+    "title": "Install Ben Musa",
+    "body": "Add the app to your device for quick offline access to packages and contact details.",
+    "dismiss": "Later",
+    "install": "Install"
+  },
+  "footer": {
+    "line": "Premium Hajj and Umrah travel products for peaceful preparation."
+  }
+}

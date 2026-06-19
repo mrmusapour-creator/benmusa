@@ -1,0 +1,42 @@
+{
+  "name": "Ben Musa",
+  "short_name": "Ben Musa",
+  "description": "Premium Hajj and Umrah travel product platform.",
+  "start_url": "/benmusa/",
+  "scope": "/benmusa/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0D6E6E",
+  "categories": ["travel", "shopping", "lifestyle"],
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/benmusa/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/benmusa/icons/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/benmusa/icons/screenshot-wide.svg",
+      "sizes": "1280x720",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/benmusa/icons/screenshot-mobile.svg",
+      "sizes": "390x844",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "brand": {
+    "name_fa": "بن موسی",
+    "name_ar": "بن موسى",
+    "name_en": "Ben Musa",
+    "logo_url": ""
+  },
+  "hero": {
+    "eyebrow_fa": "ملزومات ممتاز حج و عمره",
+    "eyebrow_ar": "مستلزمات حج وعمرة فاخرة",
+    "eyebrow_en": "Premium Hajj and Umrah essentials",
+    "headline_fa": "همراه مطمئن زائران خانه خدا",
+    "headline_ar": "رفيق الحاج في رحلته المباركة",
+    "headline_en": "Your Trusted Hajj Companion",
+    "subheadline_fa": "بن موسی مجموعه‌ای شیک از کیف‌های سفر، ملزومات عبادت، لوازم آسایش و راهکارهای آماده کاروان را برای سفری آرام و معنوی فراهم می‌کند.",
+    "subheadline_ar": "بن موسى يقدم حقائب سفر أنيقة، ومستلزمات عبادة، وإكسسوارات راحة، وحلولا جاهزة للقوافل من أجل رحلة مقدسة أكثر طمأنينة.",
+    "subheadline_en": "Ben Musa curates elegant travel bags, worship essentials, comfort accessories, and caravan-ready solutions for a calm sacred journey.",
+    "trust_fa": "مورد اعتماد کاروان‌ها و زائران",
+    "trust_ar": "موثوق لدى القوافل والحجاج",
+    "trust_en": "Trusted by caravan operators and pilgrims",
+    "image_url": ""
+  },
+  "packages": {
+    "title_fa": "بسته سفر خود را انتخاب کنید",
+    "title_ar": "اختر باقة سفرك",
+    "title_en": "Choose Your Travel Package",
+    "subtitle_fa": "دو مجموعه ممتاز برای ریتم سفر زیارتی؛ از نظم‌دهی ضروری تا آسایش ویژه.",
+    "subtitle_ar": "مجموعتان راقيتان مصممتان لإيقاع رحلة الحج، من التنظيم الأساسي إلى الراحة الفاخرة.",
+    "subtitle_en": "Two refined product sets designed for the rhythm of pilgrimage, from essential organization to VIP comfort.",
+    "standard_description_fa": "یک کیت کامل زائر با ملزومات روزانه سفر در کیف خلبانی شیک و مقاوم.",
+    "standard_description_ar": "مجموعة حاج كاملة تضم أساسيات السفر اليومية داخل حقيبة عملية بطابع طيار فاخر.",
+    "standard_description_en": "A complete pilgrim kit with everyday travel essentials in a refined pilot-style bag.",
+    "vip_description_fa": "همه اقلام استاندارد به همراه ارتقای آسایش ویژه برای مناسک طولانی‌تر و حرکت آسان‌تر.",
+    "vip_description_ar": "كل أساسيات الباقة القياسية مع إضافات راحة فاخرة للمناسك الطويلة والتنقل الهادئ.",
+    "vip_description_en": "All standard essentials plus premium comfort upgrades for longer rituals and smoother movement.",
+    "standard_image_url": "",
+    "vip_image_url": ""
+  },
+  "contact": {
+    "title_fa": "تماس با بن موسی",
+    "title_ar": "تواصل مع بن موسى",
+    "title_en": "Contact Ben Musa",
+    "subtitle_fa": "برای سفارش بسته‌ها، تامین کاروان و کیت اختصاصی زائران با تیم ما گفتگو کنید.",
+    "subtitle_ar": "تحدث مع فريقنا حول طلبات الباقات، وتوريد القوافل، ومجموعات الحجاج المخصصة.",
+    "subtitle_en": "Speak with our team about package orders, caravan supply, and custom pilgrim kits.",
+    "phone": "+966 55 000 1888",
+    "whatsapp": "+966 55 000 1888",
+    "address_fa": "جاده مکه، منطقه خدمات زائران",
+    "address_ar": "طريق مكة، حي خدمات الحجاج",
+    "address_en": "Makkah Road, Pilgrim Services District",
+    "image_url": ""
+  },
+  "seo": {
+    "title_fa": "بن موسی | همراه ممتاز حج",
+    "title_ar": "بن موسى | رفيق الحج الفاخر",
+    "title_en": "Ben Musa | Premium Hajj Companion",
+    "description_fa": "محصولات ممتاز حج و عمره، بسته‌های سفر و ملزومات آماده کاروان برای زائران.",
+    "description_ar": "منتجات حج وعمرة فاخرة، باقات سفر، ومستلزمات جاهزة للقوافل والحجاج.",
+    "description_en": "Premium Hajj and Umrah products, travel packages, and caravan-ready pilgrim essentials."
+  }
+}

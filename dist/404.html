@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ben Musa</title>
+    <script>
+      (function () {
+        var base = '/benmusa/';
+        var path = window.location.pathname;
+        var route = path.replace(base.replace(/\/$/, ''), '').replace(/^\/+/, '');
+        window.location.replace(base + (route ? '?route=/' + encodeURIComponent(route) : ''));
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

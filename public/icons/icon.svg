@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Ben Musa app icon</title>
+  <rect width="512" height="512" rx="112" fill="#0D6E6E"/>
+  <path d="M94 372h324c-21 39-72 66-162 66S115 411 94 372Z" fill="#C9A227"/>
+  <path d="M154 344c8-82 45-151 102-205 57 54 94 123 102 205H154Z" fill="#fff"/>
+  <path d="M190 310c8-48 31-90 66-125 35 35 58 77 66 125H190Z" fill="#0D6E6E"/>
+  <path d="M256 80c16 26 42 46 72 55-38 11-63 33-72 67-9-34-34-56-72-67 30-9 56-29 72-55Z" fill="#C9A227"/>
+  <text x="256" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#0D6E6E">BM</text>
+</svg>
