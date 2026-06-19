@@ -1,3 +1,4 @@
+export default {
 const CACHE_NAME = 'ben-musa-cache-v2';
 const BASE = '/benmusa/';
 const PRECACHE_ASSETS = [
@@ -42,3 +43,4 @@ self.addEventListener('fetch', (event) => {
     })
   );
 });
+};
